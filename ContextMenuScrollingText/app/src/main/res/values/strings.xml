@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Context Menu ScrollingText</string>
+    <string name="article_title"><b>Political News</b></string>
+    <string name="article_subtitle"><b>Kuki hari abizihiza Umunsi wa Noheli, abandi ntibawukozwe?</b></string>
+    <string name="article_text"> Tuvuze umunsi witirirwa ivuka rya Yesu kuko mu kuri nta wuzi neza umunsi nyawo yavukiyeho. Nubwo witirirwa ivuka rya Yesu, wizihizwa n’abafite imyizerere ya Gikirisitu ariko hari n’amatorero n’amadini menshi atawemera akavuga ko nta n’impamvu yo kuwizihiza.
+
+Ku rundi ruhande ariko hari abatemera Yesu bafata Noheli nk’umunsi mukuru utuma babona umwanya wo gusangira no gusabana n’incuti n’abavandimwe cyane ko mu bice bitandukanye ku Isi Leta nyinshi ziwufata nk’uw’ikiruhuko.
+
+Muri rusange haba abemera Yesu Kirisitu nk’Umwana w’Imana bakaba bafite imyizerere ya Gikirisitu ituma bitwa abakirisitu, haba n’abatamwemera nk’umwana w’Imana ariko bemera ko Noheli iba ku wa 25 Ukuboza buri mwaka, abenshi ntibazi impamvu nyayo n’uburyo nyabwo byo kuyizihiza.
+
+Ibi bituma Noheli bayifata nk’umunsi mukuru wo kunywa no kurya, kwambara imyenda mishya, umunsi incuti zisohokera ku mucanga no ku mazi n’ahandi hantu h’ubwiza nyaburanga, ugatuma abakora ubushabitsi binjiza amafaranga menshi, imihanda igatamirizwa amatara afite amabara atandukanye, inzu zikarimbishwa ibirugu n’andi mashusho afitanye isano na Noheli, abanywa agasembuye bagasoma agahagije, utubyiniro n’inzu z’imyidagaduro bikabona abazigana benshi n’ibindi.
+
+Noheli ni umunsi rimwe na rimwe utwara ubuzima bw’abantu kubera impamvu zitandukanye zirimo impanuka ziterwa no gutwara ibinyabiziga abantu basinze, ni umunsi usiga imiryango myinshi iri mu madeni uruhuri, abiganjemo abangavu batwara inda zitateganyijwe bakiyongera, ugasiga ibikomere byinshi mu miryango itandukanye.
+
+Ibi byose bigaragaza ko abizihiza Noheli batazi impamvu yayo n’uburyo nyabwo bwo kuyizihiza kuko Yesu ubwe yivugiye ko yazanywe no kugira ngo “abantu babone ubugingo ndetse ubugingo bwinshi.”
+
+Byaba bitangaje kwibuka uwazanywe no kugira ngo abantu babone ubugingo bwinshi biba intandaro yo kububura.
+
+Amateka ya Gikirisitu agaragaza ko Noheli yatangiye kwizihizwa ku wa 25 Ukuboza 336 mu Bwami bw’Abami bw’Abaroma ku Ngoma y’Umwami w’Abami witwaga Constantine ari nawe wabaye uwa mbere wemeye kuyoboka ubukirisitu.
+
+Abasesenguzi n’abigisha b’ubutumwa bwiza bwa Yesu Kirisitu bavuga ko n’ubwo Constantine yabaye uwa mbere wemeye ubukirisitu, ni na we wabaye umwanzi wa mbere wabwo kuko yarabuyobotse ariko ntibwamuhindura ahubwo aba umuyoboro ukomeye wo kugoreka amahame menshi bwagenderagaho.
+
+Dufashe urugero, yafashe umunsi wo gusenga uva ku wa gatandatu ujyanwa ku cyumweru, umubatizo wo mu mazi menshi uhindurwa uwo ku gahanga kandi ibi byari bifitanye isano n’imyemerere ya gipagani y’Abaroma.
+
+Nubwo itariki ya 25 Ukuboza, ihurirwaho na benshi ariko impamvu y’iyo tariki ivugwaho mu buryo butandukanye.
+
+Izi ni zimwe mu mpamvu zivugwa ku kuba Noheli yizihizwa kuri uwo munsi; impamvu ya mbere ni uko bamwe bavuga ko umunsi Mariya yahabwaga ubutumwa na Malayika Gabriel bwo kubyara Yesu hari ku wa 25 Werurwe bikaba bisobanuye ko niba yarahise asama inda y’umwuka yaba yarabyaye ku wa 25 Ukuboza nyuma y’amezi icyenda. </string>
+    <string name="edit">Edit</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="edit_message">Edit choice clicked.</string>
+    <string name="share_message">Share choice clicked.</string>
+    <string name="delete_message">Delete choice clicked.</string>
+</resources>

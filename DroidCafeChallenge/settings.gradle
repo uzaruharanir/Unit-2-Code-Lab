@@ -1,0 +1,2 @@
+rootProject.name='DroidCafeChallenge'
+include ':app'
